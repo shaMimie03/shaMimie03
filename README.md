@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Shamimie Suriatie 
 
-<!--
-**shaMimie03/shaMimie03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Final Year Student passionate about building modern digital experiences and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+- My interests include web development, AI, UI/UX design, and open-source projects.
+I enjoy turning simple ideas into real applications people can use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on personal projects, improving my full-stack development skills, and exploring scalable applications using modern technologies.
+I love building clean, responsive, and user-friendly applications while experimenting with creative ideas and new frameworks.
+  
+✨ Things I love:
+- Building cool side projects
+- Exploring new technologies
+- Clean UI design
+- Turning ideas into real products
+
+⚡ Fun Fact
+- I enjoy experimenting with new tech stacks and sometimes spend more time designing the README than the actual project 😆
+
+📫 Reach Me 
+- GitHub: github.com/shaMimie03
+- Email: ahamimie27@email.com
+- LinkedIn: linkedin.com/in/shamimie-suriatie
+
+Thanks for visiting my profile ⭐
