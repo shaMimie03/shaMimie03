@@ -15,7 +15,7 @@ I love building clean, responsive, and user-friendly applications while experime
 - Turning ideas into real products
 
 ⚡ Fun Fact
-- I enjoy experimenting with new tech stacks and sometimes spend more time designing the README than the actual project 😆
+- I sometimes spend more time designing the UI than building the actual feature 😆
 
 📫 Reach Me 
 - GitHub: github.com/shaMimie03
